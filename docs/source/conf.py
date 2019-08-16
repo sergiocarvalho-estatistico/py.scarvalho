@@ -18,7 +18,7 @@ import sys, os
 
 project = 'Learning Python'
 copyright = '2019, Sérgio Carvalho'
-author = 'Sérgio CArvalho'
+author = 'Sérgio Carvalho'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
@@ -65,8 +65,8 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
-#html_theme = 'default'
+#html_theme = 'alabaster'
+html_theme = 'default'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

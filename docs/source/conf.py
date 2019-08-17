@@ -31,7 +31,7 @@ release = '0.0.1'
 # ones.
 extensions = ['recommonmark']
 
-source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
+#source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
 
 # The suffix of source filenames.
 source_suffix = {

@@ -31,7 +31,6 @@ release = '0.0.1'
 # ones.
 extensions = ['recommonmark']
 
-#source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
 
 # The suffix of source filenames.
 source_suffix = {
@@ -63,7 +62,7 @@ exclude_patterns = []
 
 # The name of the Pygments (syntax highlighting) style to use.
 
-#########pygments_style = 'sphinx'
+pygments_style = 'sphinx'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -109,14 +108,24 @@ html_static_path = ['nstatic']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-#html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%b %d, %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
-#html_use_smartypants = True
+html_use_smartypants = True
+
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+        'relations.html',
+        'searchbox.html',
+        'donate.html',
+    ]
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
@@ -132,7 +141,8 @@ html_static_path = ['nstatic']
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = True
+html_show_sourcelink = True
+
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 #html_show_sphinx = True

@@ -14,10 +14,10 @@ Guide
 ^^^^^
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   licensee
-   helpp
+   license
+   help
 
 
 Indices and tables

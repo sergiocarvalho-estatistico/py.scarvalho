@@ -148,4 +148,4 @@ html_static_path = ['nstatic']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'doctutdoc'
+#htmlhelp_basename = 'doctutdoc'

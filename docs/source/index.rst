@@ -17,7 +17,9 @@ Guide
    :maxdepth: 2
 
    license
+   licensee
    help
+   helpp
 
 
 Indices and tables

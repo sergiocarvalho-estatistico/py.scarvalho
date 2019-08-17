@@ -34,13 +34,17 @@ extensions = ['sphinx.ext.autodoc']
 
 
 # The suffix of source filenames.
-source_suffix = '.md'
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 # The encoding of source files.
-#source_encoding = 'utf-8-sig'
+source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index2'
+master_doc = 'index'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['ntemplates']
@@ -50,7 +54,7 @@ templates_path = ['ntemplates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'English'
+language = 'Portuguese'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -104,7 +108,7 @@ html_static_path = ['nstatic']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-#html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%b %d, %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
@@ -144,4 +148,4 @@ html_static_path = ['nstatic']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'doctutdoc'
+#htmlhelp_basename = 'doctutdoc'

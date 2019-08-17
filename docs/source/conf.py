@@ -148,4 +148,4 @@ html_last_updated_fmt = '%b %d, %Y'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-#htmlhelp_basename = 'doctutdoc'
+htmlhelp_basename = 'doctutdoc'

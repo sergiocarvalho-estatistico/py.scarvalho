@@ -1,7 +1,6 @@
 Introdução à Ciência de Dados Com Python
 ========================================
 
-
 Guide
 ^^^^^
 
@@ -9,9 +8,10 @@ Guide
    :maxdepth: 1
 
    modulosepacotes
+   arquivos1
+   arquivos2
    license
    help
-   modulosepacotes2
 
 
 Indices and tables

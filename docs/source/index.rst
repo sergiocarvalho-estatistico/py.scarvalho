@@ -11,6 +11,7 @@ Guide
    modulosepacotes
    license
    help
+   modulosepacotes2
 
 
 Indices and tables

@@ -7,9 +7,8 @@ Guide
 .. toctree::
    :maxdepth: 1
 
-   modulosepacotes
-   arquivos1
    arquivos2
+   modulosepacotes
    license
    help
 

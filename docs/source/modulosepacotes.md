@@ -1,4 +1,4 @@
-# <font color='yellow'>Capítulo 4 - Pacotes e Módulos</font>
+# Pacotes e Módulos
 
 ### Site Pypi Python
 * [Pypi](https://pypi.org)

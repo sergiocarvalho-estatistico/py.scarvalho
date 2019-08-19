@@ -16,6 +16,7 @@ Guide
 .. toctree::
    :maxdepth: 1
 
+   modulosepacotes
    license
    help
 

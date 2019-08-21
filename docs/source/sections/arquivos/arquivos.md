@@ -634,7 +634,7 @@ df2.head()
 </div>
 
 
-# Manipulando Arquivos 2
+# Trabalhando com Arquivos
 
 - Arquivos TXT
 - Arquivos CSV 

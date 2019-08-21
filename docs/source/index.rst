@@ -6,12 +6,12 @@ Guide
 
 .. toctree::
    :maxdepth: 1
+   :numbered:
 
-   arquivos1
-   arquivos2
-   modulosepacotes
-   license
-   help
+   sections/arquivos1
+   sections/arquivos2
+   sections/modulosepacotes
+ 
 
 
 Indices and tables

@@ -1,4 +1,4 @@
-# Manipulando Arquivos 1
+# Manipulando Arquivos
 
 * Caso você tenha problemas com acentos nos arquivos:
 * Primeiro, recomendamos a leitura do material sobre Formato Unicode, ao final do capítulo 4.
@@ -9,11 +9,11 @@
 Obs: Crie um arquivo txt, chamado arquivo1.txt no diretório "arquivos" na pasta onde está seu Jupyter Notebook, digite a frase: Python é uma linguagem poderosa! e salve o arquivo.
 
 
+## Importando o pacote os 
+
 ```python
-# lendo o arquivo
 import os 
 ```
-
 
 ```python
 arr = os.listdir('arquivos')
@@ -23,7 +23,7 @@ print(arr)
     ['arquivo1.txt', 'binary.csv', 'cientista.txt', 'dados.json', 'file.csv', 'json_data.txt', 'numeros.csv', 'reduce.png', 'salarios.csv', 'testandoerros.txt', 'teste.txt']
     
 
-## Lendo Arquivos
+### Lendo Arquivos
 
 
 ```python
@@ -67,7 +67,7 @@ print(arq1.read(10))
     Escrita do
     
 
-## Gravando Arquivos
+### Gravando Arquivos
 
 
 ```python
@@ -183,7 +183,7 @@ print(arq2.read())
     Escrita do arquivo modificada Acrescentando conteúdo
     
 
-## Automatizando o processo de gravação
+### Automatizando o processo de gravação
 
 
 ```python
@@ -238,7 +238,7 @@ print(arq3.read())
 arq3.close()
 ```
 
-## Abrindo um dataset em uma única linha
+### Abrindo um dataset em uma única linha
 
 Faça download do arquivo salarios.csv em nosso repositório no github. Este arquivo foi obtido no site de dados abertos do governo da cidade de Chicago, nos EUA: https://data.cityofchicago.org/
 
@@ -263,7 +263,7 @@ rows = data.split('\n')
 #print(rows)
 ```
 
-## Dividindo um dataset em colunas
+### Dividindo um dataset em colunas
 
 
 ```python
@@ -297,7 +297,7 @@ for row in rows:
 # print(full_data)
 ```
 
-## Contando as linhas de um arquivo
+### Contando as linhas de um arquivo
 
 
 ```python
@@ -341,7 +341,7 @@ print(count)
     32184
     
 
-## Contando o número de colunas de um arquivo
+### Contando o número de colunas de um arquivo
 
 
 ```python
@@ -378,7 +378,7 @@ print(count)
     4
     
 
-## Gravando arquivo pelo Jupyter Notebook
+### Gravando arquivo pelo Jupyter Notebook
 
 
 ```python
@@ -640,7 +640,7 @@ df2.head()
 - Arquivos CSV 
 - Arquivos JSON
 
-## Manipulando Arquivos TXT
+### Manipulando Arquivos TXT
 
 
 ```python
@@ -670,7 +670,7 @@ print(texto)
     E claro, em Big Data.
     
 
-## O Módulo Operating System (OS) 
+### O Módulo Operating System (OS) 
 
 * O pacote OS serve para manipular o sistema operacional, ele é super útil em várias situações como:
     * Manipular arquivos

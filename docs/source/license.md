@@ -7,5 +7,7 @@
 
 ## Contact
 
-Question? Please contact sergio.icmc@gmail.com
+### Question? 
+
+Please contact sergio.icmc@gmail.com
 

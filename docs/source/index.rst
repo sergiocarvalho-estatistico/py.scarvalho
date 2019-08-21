@@ -10,9 +10,9 @@ Guide
 
    sections/arquivos/arquivos
    sections/modulos/modulosepacotes
+   help
+   
  
-..    TODO
-
 
 Indices and tables
 ==================

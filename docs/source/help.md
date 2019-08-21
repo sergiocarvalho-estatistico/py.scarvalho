@@ -6,9 +6,7 @@ If you're have trouble please email sergio.icmc@gmail.com
 
 Please join our IRC channel on freenode under doctut
 
-## Lisence
-
-[Lisence](license.md)
+## [Lisence](license.md)
 
 
 

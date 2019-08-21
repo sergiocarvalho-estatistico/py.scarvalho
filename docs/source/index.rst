@@ -5,13 +5,13 @@ Guide
 ^^^^^
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
 
-   sections/arquivos/arquivos
+   sections/arquivos/arquivos1
    sections/modulos/modulosepacotes
    help
-   
+
  
 
 Indices and tables

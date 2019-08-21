@@ -2,13 +2,13 @@ Introdução à Ciência de Dados Com Python
 ========================================
 
 Guide
-^^^^^
+======
 
 .. toctree::
    :maxdepth: 2
    :numbered:
 
-   sections/arquivos/arquivos1
+   sections/arquivos/*
    sections/modulos/modulosepacotes
    help
 

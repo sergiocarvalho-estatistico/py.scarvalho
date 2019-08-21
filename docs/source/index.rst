@@ -8,8 +8,8 @@ Guide
    :maxdepth: 1
    :numbered:
 
-   sections/arquivos
-   sections/modulosepacotes
+   sections/arquivos/arquivos
+   sections/modulos/modulosepacotes
  
 ..    TODO
 

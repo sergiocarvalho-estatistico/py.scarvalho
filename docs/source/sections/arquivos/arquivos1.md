@@ -1,4 +1,4 @@
-# Manipulando Arquivos 1
+# Manipulando Arquivos 
 
 * Caso você tenha problemas com acentos nos arquivos:
 * Primeiro, recomendamos a leitura do material sobre Formato Unicode, ao final do capítulo 4.

@@ -6,7 +6,7 @@ If you're have trouble please email sergio.icmc@gmail.com
 
 Please join our IRC channel on freenode under doctut
 
-.. include:: lisence.md
+
 
 
 

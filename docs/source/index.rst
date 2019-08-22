@@ -1,18 +1,15 @@
 Introdução à Ciência de Dados Com Python
 ========================================
 
-Guide
-======
+Conteúdo
+========
 
 .. toctree::
    :maxdepth: 2
    :numbered:
 
-
-   sections/arquivos/arquivos
-   sections/modulos/modulosepacotes
-   help
-
+   chapters/chapter1/chapter1
+   chapters/chapter4/chapter4
  
 
 Indices and tables

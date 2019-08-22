@@ -1,4 +1,4 @@
-Capítulo 2 - Estrutura de Loops e Condicionais
+Capítulo 2 - Loops e Condicionais
 ==============================================
 
 

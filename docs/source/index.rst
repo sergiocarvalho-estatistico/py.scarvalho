@@ -9,7 +9,8 @@ Conteúdo
    :numbered:
 
    chapters/chapter1/chapter1
-   chapters/chapter4/chapter4
+   chapters/chapter2/chapter2
+   chapters/chapter3/chapter3
  
 
 Indices and tables

@@ -1,4 +1,4 @@
-Capítulo 3 - Trabalhando com Arquivos
+Capítulo 3 - Arquivos
 ========================================
 
 

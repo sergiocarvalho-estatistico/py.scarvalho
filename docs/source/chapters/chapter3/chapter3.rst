@@ -9,4 +9,12 @@ Capítulo 4 - Trabalhando com Arquivos
    arquivos1
    arquivos2
    modulosepacotes
+   datetime
+   map
+   reduce
+   Filter
+   listcomprehensions
+   zip
+   enumerate
+
   

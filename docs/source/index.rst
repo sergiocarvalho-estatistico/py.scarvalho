@@ -5,8 +5,7 @@ Conteúdo
 ========
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
 
    chapters/chapter1/chapter1
    chapters/chapter2/chapter2
